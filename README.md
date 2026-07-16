@@ -7,8 +7,6 @@ HTML/CSS/JavaScript — no build step.
 
 ![Checkpoint 1 — the bumper garden island](docs/screenshot-checkpoint.png)
 
-![Dodging the rotating sweeper bars](docs/screenshot-sweepers.png)
-
 ![The ramp up to the finish gate](docs/screenshot-finish-gate.png)
 
 ![Finish screen](docs/screenshot-finish.png)
