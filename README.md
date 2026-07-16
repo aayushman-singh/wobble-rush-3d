@@ -5,6 +5,8 @@ party-royale obstacle courses but with fully original art, characters and
 level design. Built with Three.js (r128, vendored locally) and plain
 HTML/CSS/JavaScript — no build step.
 
+![Checkpoint 1 — the bumper garden island](docs/screenshot-checkpoint.png)
+
 ![Dodging the rotating sweeper bars](docs/screenshot-sweepers.png)
 
 ![The ramp up to the finish gate](docs/screenshot-finish-gate.png)
